@@ -1,0 +1,7 @@
+---,Class,State,MarkerColor,BasePoints
+1,Enemy_Red_BP,Idle,Red,25
+2,Enemy_Red_BP,Walking,Red,10
+3,Enemy_Red_BP,Running,Red,5
+4,Enemy_Blue_BP,Idle,Blue,25
+5,Enemy_Blue_BP,Walking,Blue,10
+6,Enemy_Blue_BP,Running,Blue,5
